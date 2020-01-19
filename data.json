@@ -1,0 +1,83 @@
+{
+    "notification": {
+        "count": 1,
+        "next": null,
+        "previous": null,
+        "results": [
+            {
+                "id": 1,
+                "checkin": {
+                    "id": 1,
+                    "profile": {
+                        "id": 1,
+                        "categories": [
+                            {
+                                "id": 4,
+                                "name": "Employee",
+                                "created_at": "2020-01-18T17:36:46.448459Z",
+                                "updated_at": "2020-01-18T17:36:46.448491Z",
+                                "threat_level": "NO"
+                            },
+                            {
+                                "id": 7,
+                                "name": "VIP",
+                                "created_at": "2020-01-18T17:37:18.627700Z",
+                                "updated_at": "2020-01-18T17:37:18.627737Z",
+                                "threat_level": "NO"
+                            }
+                        ],
+                        "name": "Kuldeep Pisda",
+                        "created_at": "2020-01-18T12:12:13.127653Z",
+                        "updated_at": "2020-01-18T19:35:16.715128Z"
+                    },
+                    "camera": {
+                        "id": 1,
+                        "address": {
+                            "id": 1,
+                            "place": {
+                                "id": 1,
+                                "district": {
+                                    "id": 1,
+                                    "state": {
+                                        "id": 1,
+                                        "country": {
+                                            "id": 1,
+                                            "name": "India",
+                                            "created_at": "2020-01-18T18:31:47.620109Z",
+                                            "updated_at": "2020-01-18T18:31:47.620150Z"
+                                        },
+                                        "name": "Chhattisgarh",
+                                        "created_at": "2020-01-18T18:32:02.928261Z",
+                                        "updated_at": "2020-01-18T18:32:02.928281Z"
+                                    },
+                                    "name": "Raipur",
+                                    "created_at": "2020-01-18T18:33:36.315719Z",
+                                    "updated_at": "2020-01-18T18:33:36.315737Z"
+                                },
+                                "name": "GE Road",
+                                "created_at": "2020-01-18T18:33:39.440906Z",
+                                "updated_at": "2020-01-18T18:33:39.440929Z"
+                            },
+                            "additional_lines": "Golden Tower NIT Raipur",
+                            "created_at": "2020-01-18T18:36:49.122066Z",
+                            "updated_at": "2020-01-18T18:36:49.122095Z",
+                            "longitude": "21.2500000000",
+                            "latitude": "81.6300000000",
+                            "pincode": "492001"
+                        },
+                        "feed_url": "http://192.168.168.23:5000/video_feed",
+                        "caption": "Main Gate",
+                        "created_at": "2020-01-18T18:41:02.581635Z",
+                        "updated_at": "2020-01-19T00:42:06.919410Z"
+                    },
+                    "start_time": "2020-01-19T04:50:12Z",
+                    "end_time": "2020-01-19T04:58:45Z",
+                    "created_at": "2020-01-19T04:58:12.931541Z",
+                    "updated_at": "2020-01-19T04:58:49.715994Z"
+                },
+                "created_at": "2020-01-19T04:59:05.114839Z",
+                "updated_at": "2020-01-19T04:59:05.114868Z"
+            }
+        ]
+    }
+}

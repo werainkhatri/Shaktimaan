@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "311563223298",
+    "firebase_url": "https://codeutsava-brain.firebaseio.com",
+    "project_id": "codeutsava-brain",
+    "storage_bucket": "codeutsava-brain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311563223298:android:ecccaf3d5b58c423a0421b",
+        "android_client_info": {
+          "package_name": "hackathon.werainkhatri.shaktimaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311563223298-8v2pt7jtt0p4vtj67hdghadedhp44160.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackathon.werainkhatri.shaktimaan",
+            "certificate_hash": "de595b579374e06e2ee8f8781fa652fd2ea4cd81"
+          }
+        },
+        {
+          "client_id": "311563223298-hokd3tsng0k0s6ojqnd8vse7st212mpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxt89mSDDA6UInnvoSSt3VU1hb7QbXwcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311563223298-hokd3tsng0k0s6ojqnd8vse7st212mpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
